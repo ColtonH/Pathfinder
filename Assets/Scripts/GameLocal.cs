@@ -12,4 +12,8 @@ public class GameLocal : MonoBehaviour {
 	void Update () {
 	
 	}
+
+	bool isFinish(){
+		return false;
+	}
 }

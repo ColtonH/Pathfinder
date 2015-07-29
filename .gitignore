@@ -6,3 +6,4 @@ Pathfinder_Demo.apk
 *.htm
 Assembly-CSharp-vs.csproj
 *.csproj
+*.userprefs
