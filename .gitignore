@@ -1,3 +1,6 @@
 *.bin
 Library/
 *.meta
+Pathfinder_Demo.apk
+*.sln
+*.htm
